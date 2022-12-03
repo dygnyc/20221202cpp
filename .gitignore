@@ -6,3 +6,10 @@
 
 # Unignore all dirs
 !*/
+
+#ingnore vs code folder
+.vscode/
+
+#c++ object files
+*.out
+*.o
